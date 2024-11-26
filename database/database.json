@@ -1,0 +1,753 @@
+{
+  "company": [
+    {
+      "id": "1",
+      "companyName": "ABC Corp",
+      "phone": "123456789",
+      "email": "abc@corp.com",
+      "password": "password123",
+      "token": "token123",
+      "address": "123 Main St",
+      "workingTime": "9am - 5pm",
+      "website": "www.abccorp.com",
+      "quantityPeople": 100,
+      "description": "A sample company",
+      "detail": "This is a detailed description of ABC Corp."
+    },
+    {
+      "id": "2",
+      "companyName": "XYZ Ltd",
+      "phone": "987654321",
+      "email": "xyz@ltd.com",
+      "password": "password456",
+      "token": "token456",
+      "address": "456 Side St",
+      "workingTime": "8am - 6pm",
+      "website": "www.xyzltd.com",
+      "quantityPeople": 200,
+      "description": "Another sample company",
+      "detail": "This is a detailed description of XYZ Ltd."
+    },
+    {
+      "id": "3",
+      "companyName": "LMN Inc",
+      "phone": "1122334455",
+      "email": "lmn@inc.com",
+      "password": "password789",
+      "token": "token789",
+      "address": "789 Another St",
+      "workingTime": "10am - 4pm",
+      "website": "www.lmninc.com",
+      "quantityPeople": 150,
+      "description": "Yet another sample company",
+      "detail": "This is a detailed description of LMN Inc."
+    },
+    {
+      "id": "4",
+      "companyName": "DEF Solutions",
+      "phone": "2233445566",
+      "email": "def@solutions.com",
+      "password": "password101",
+      "token": "token101",
+      "address": "321 Some St",
+      "workingTime": "11am - 7pm",
+      "website": "www.defsolutions.com",
+      "quantityPeople": 120,
+      "description": "DEF Solutions description",
+      "detail": "This is a detailed description of DEF Solutions."
+    },
+    {
+      "id": "5",
+      "companyName": "GHI Enterprises",
+      "phone": "3344556677",
+      "email": "ghi@enterprises.com",
+      "password": "password102",
+      "token": "token102",
+      "address": "654 Back St",
+      "workingTime": "7am - 3pm",
+      "website": "www.ghienterprises.com",
+      "quantityPeople": 80,
+      "description": "GHI Enterprises description",
+      "detail": "This is a detailed description of GHI Enterprises."
+    },
+    {
+      "id": "6",
+      "companyName": "JKL Systems",
+      "phone": "4455667788",
+      "email": "jkl@systems.com",
+      "password": "password103",
+      "token": "token103",
+      "address": "987 Front St",
+      "workingTime": "8am - 4pm",
+      "website": "www.jklsystems.com",
+      "quantityPeople": 90,
+      "description": "JKL Systems description",
+      "detail": "This is a detailed description of JKL Systems."
+    },
+    {
+      "id": "7",
+      "companyName": "Haicutee Group2",
+      "phone": "5566778899",
+      "email": "mno@group.com",
+      "password": "password104",
+      "token": "token104",
+      "address": "321 Other St",
+      "workingTime": "9am - 6pm",
+      "website": "www.mnogroup.com",
+      "quantityPeople": 110,
+      "description": "Công ty Hải cutee là một công ty xịn xò",
+      "detail": "This is a detailed description of MNO Group."
+    },
+    {
+      "id": "8",
+      "companyName": "PQR Services",
+      "phone": "6677889900",
+      "email": "pqr@services.com",
+      "password": "password105",
+      "token": "token105",
+      "address": "654 Next St",
+      "workingTime": "6am - 2pm",
+      "website": "www.pqrservices.com",
+      "quantityPeople": 130,
+      "description": "PQR Services description",
+      "detail": "This is a detailed description of PQR Services."
+    },
+    {
+      "id": "9",
+      "companyName": "STU Innovations",
+      "phone": "7788990011",
+      "email": "stu@innovations.com",
+      "password": "password106",
+      "token": "token106",
+      "address": "987 Another St",
+      "workingTime": "7am - 3pm",
+      "website": "www.stuinnovations.com",
+      "quantityPeople": 140,
+      "description": "STU Innovations description",
+      "detail": "This is a detailed description of STU Innovations."
+    },
+    {
+      "id": "10",
+      "companyName": "VWX Tech",
+      "phone": "8899001122",
+      "email": "vwx@tech.com",
+      "password": "password107",
+      "token": "token107",
+      "address": "321 Yet Another St",
+      "workingTime": "8am - 5pm",
+      "website": "www.vwxtech.com",
+      "quantityPeople": 160,
+      "description": "VWX Tech description",
+      "detail": "This is a detailed description of VWX Tech."
+    },
+    {
+      "id": "8270",
+      "companyName": "Haicutee",
+      "email": "1112navy@gmail.com",
+      "phone": "0123456789",
+      "password": "ahiii111",
+      "token": "3UPeDjEavMPXjuMwxrb9"
+    }
+  ],
+  "city": [
+    {
+      "key": 1,
+      "value": "Hà Nội",
+      "id": "5501"
+    },
+    {
+      "key": 2,
+      "value": "Hồ Chí Minh",
+      "id": "3270"
+    },
+    {
+      "key": 3,
+      "value": "Đà Nẵng",
+      "id": "61f4"
+    },
+    {
+      "key": 4,
+      "value": "Hải Phòng",
+      "id": "b228"
+    },
+    {
+      "key": 5,
+      "value": "Cần Thơ",
+      "id": "6b00"
+    },
+    {
+      "key": 6,
+      "value": "Hải Phòng",
+      "id": "b633"
+    },
+    {
+      "key": 7,
+      "value": "Hải Phòng",
+      "id": "9219"
+    },
+    {
+      "key": 8,
+      "value": "Nghệ An",
+      "id": "e9e0"
+    },
+    {
+      "key": 9,
+      "value": "Hải Phòng",
+      "id": "8f94"
+    },
+    {
+      "key": 10,
+      "value": "Cao Bằng",
+      "id": "d397"
+    }
+  ],
+  "tags": [
+    {
+      "key": 1,
+      "value": "Python",
+      "id": "3683"
+    },
+    {
+      "key": 2,
+      "value": "JavaScript",
+      "id": "f51a"
+    },
+    {
+      "key": 3,
+      "value": "Java",
+      "id": "776f"
+    },
+    {
+      "key": 4,
+      "value": "C++",
+      "id": "32f6"
+    },
+    {
+      "key": 5,
+      "value": "PHP",
+      "id": "b3c7"
+    },
+    {
+      "key": 6,
+      "value": "ReactJs",
+      "id": "8336"
+    },
+    {
+      "key": 7,
+      "value": "AngularJs",
+      "id": "d46c"
+    },
+    {
+      "key": 8,
+      "value": "Html",
+      "id": "d657"
+    },
+    {
+      "key": 9,
+      "value": "Css/Scss",
+      "id": "5da2"
+    },
+    {
+      "key": 10,
+      "value": "Springs",
+      "id": "b0b8"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "idCompany": 1,
+      "name": "Backend Developer",
+      "tags": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "salary": "1500-2000 USD",
+      "description": "Responsible for server-side web application logic and integration of the work front-end developers do.",
+      "status": true,
+      "city": [
+        "Hanoi",
+        "Ho Chi Minh City"
+      ],
+      "createAt": "29-04-2023 21:22:17",
+      "updateAt": "30-04-2023 14:12:25"
+    },
+    {
+      "id": "2",
+      "idCompany": 2,
+      "name": "Frontend Developer",
+      "tags": [
+        "JavaScript",
+        "React",
+        "CSS"
+      ],
+      "salary": "1200-1700 USD",
+      "description": "Responsible for implementing visual elements that users see and interact with in a web application.",
+      "status": false,
+      "city": [
+        "Da Nang"
+      ],
+      "createAt": "01-05-2023 10:05:30",
+      "updateAt": "02-05-2023 09:12:45"
+    },
+    {
+      "id": "3",
+      "idCompany": 3,
+      "name": "Full Stack Developer",
+      "tags": [
+        "JavaScript",
+        "Node.js",
+        "React"
+      ],
+      "salary": "1800-2500 USD",
+      "description": "Work on both the front-end and back-end of web applications.",
+      "status": true,
+      "city": [
+        "Hanoi"
+      ],
+      "createAt": "15-05-2023 08:45:00",
+      "updateAt": "16-05-2023 11:00:00"
+    },
+    {
+      "id": "4",
+      "idCompany": 4,
+      "name": "Data Scientist",
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis"
+      ],
+      "salary": "2000-3000 USD",
+      "description": "Analyze and interpret complex data to help companies make decisions.",
+      "status": true,
+      "city": [
+        "Ho Chi Minh City"
+      ],
+      "createAt": "10-06-2023 13:30:45",
+      "updateAt": "12-06-2023 15:20:30"
+    },
+    {
+      "id": "5",
+      "idCompany": 5,
+      "name": "Mobile Developer",
+      "tags": [
+        "Kotlin",
+        "Swift",
+        "Flutter"
+      ],
+      "salary": "1700-2200 USD",
+      "description": "Develop mobile applications for Android and iOS platforms.",
+      "status": true,
+      "city": [
+        "Da Nang",
+        "Hanoi"
+      ],
+      "createAt": "25-06-2023 09:15:20",
+      "updateAt": "26-06-2023 14:05:10"
+    },
+    {
+      "id": "6",
+      "idCompany": 6,
+      "name": "DevOps Engineer",
+      "tags": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "salary": "1900-2600 USD",
+      "description": "Manage and automate company's IT infrastructure and processes.",
+      "status": false,
+      "city": [
+        "Hanoi"
+      ],
+      "createAt": "05-07-2023 11:30:50",
+      "updateAt": "06-07-2023 12:40:30"
+    },
+    {
+      "id": "8",
+      "idCompany": 8,
+      "name": "System Administrator",
+      "tags": [
+        "Linux",
+        "Windows Server",
+        "Networking"
+      ],
+      "salary": "1400-1900 USD",
+      "description": "Maintain and support company's IT systems and networks.",
+      "status": true,
+      "city": [
+        "Da Nang"
+      ],
+      "createAt": "20-07-2023 16:40:15",
+      "updateAt": "22-07-2023 17:50:25"
+    },
+    {
+      "id": "9",
+      "idCompany": 9,
+      "name": "Product Manager",
+      "tags": [
+        "Agile",
+        "Scrum",
+        "Product Development"
+      ],
+      "salary": "2100-2800 USD",
+      "description": "Oversee product development from conception to launch.",
+      "status": false,
+      "city": [
+        "Hanoi"
+      ],
+      "createAt": "01-08-2023 10:10:05",
+      "updateAt": "03-08-2023 12:20:35"
+    },
+    {
+      "id": "10",
+      "idCompany": 10,
+      "name": "Cybersecurity Analyst",
+      "tags": [
+        "Cybersecurity",
+        "Network Security",
+        "Penetration Testing"
+      ],
+      "salary": "2200-3000 USD",
+      "description": "Protect company's systems and data from cyber threats.",
+      "status": true,
+      "city": [
+        "Ho Chi Minh City"
+      ],
+      "createAt": "10-08-2023 14:50:25",
+      "updateAt": "12-08-2023 15:55:45"
+    },
+    {
+      "id": "7467",
+      "name": "Tuyển Hacker",
+      "tags": [
+        "Python",
+        "PHP",
+        "C++"
+      ],
+      "salary": "2000 USD",
+      "city": [
+        "Hà Nội"
+      ],
+      "description": "Cơ hội việc làm",
+      "status": true,
+      "idCompany": "7",
+      "createAt": "30/07/2024 14:15:42"
+    },
+    {
+      "id": "a2a2",
+      "name": "Xem phim cho intern",
+      "tags": [
+        "C++",
+        "PHP",
+        "ReactJs"
+      ],
+      "salary": "2100$",
+      "city": [
+        "Đà Nẵng",
+        "Cần Thơ"
+      ],
+      "description": "Về nhà chỉ xem phim",
+      "status": true,
+      "idCompany": "7",
+      "createAt": "31/07/2024 09:49:07"
+    }
+  ],
+  "cv": [
+    {
+      "id": "1",
+      "idCompany": 1,
+      "idJob": "J001",
+      "name": "Nguyen Van A",
+      "phone": "0912345678",
+      "email": "nguyenvana@example.com",
+      "description": "Kỹ sư phần mềm với 5 năm kinh nghiệm.",
+      "linkProject": "http://example.com/project1",
+      "city": "Hà Nội",
+      "statusRead": false,
+      "createAt": "2023-04-29T21:22:17"
+    },
+    {
+      "id": "2",
+      "idCompany": 2,
+      "idJob": "J002",
+      "name": "Tran Thi B",
+      "phone": "0987654321",
+      "email": "tranthib@example.com",
+      "description": "Chuyên viên phân tích dữ liệu với 3 năm kinh nghiệm.",
+      "linkProject": "http://example.com/project2",
+      "city": "Hồ Chí Minh",
+      "statusRead": true,
+      "createAt": "2023-05-01T10:15:30"
+    },
+    {
+      "id": "3",
+      "idCompany": 3,
+      "idJob": "J003",
+      "name": "Le Van C",
+      "phone": "0901234567",
+      "email": "levanc@example.com",
+      "description": "Nhà phát triển ứng dụng di động.",
+      "linkProject": "http://example.com/project3",
+      "city": "Đà Nẵng",
+      "statusRead": false,
+      "createAt": "2023-05-02T14:45:00"
+    },
+    {
+      "id": "4",
+      "idCompany": 4,
+      "idJob": "J004",
+      "name": "Pham Thi D",
+      "phone": "0934567890",
+      "email": "phamthid@example.com",
+      "description": "Thiết kế đồ họa chuyên nghiệp.",
+      "linkProject": "http://example.com/project4",
+      "city": "Cần Thơ",
+      "statusRead": true,
+      "createAt": "2023-05-03T08:20:45"
+    },
+    {
+      "id": "5",
+      "idCompany": 5,
+      "idJob": "J005",
+      "name": "Hoang Van E",
+      "phone": "0923456789",
+      "email": "hoangvane@example.com",
+      "description": "Quản lý dự án với 7 năm kinh nghiệm.",
+      "linkProject": "http://example.com/project5",
+      "city": "Hải Phòng",
+      "statusRead": false,
+      "createAt": "2023-05-04T12:30:25"
+    },
+    {
+      "id": "6",
+      "idCompany": 5,
+      "idJob": "J006",
+      "name": "Vo Thi F",
+      "phone": "0919876543",
+      "email": "vothif@example.com",
+      "description": "Chuyên viên tư vấn tài chính.",
+      "linkProject": "http://example.com/project6",
+      "city": "Nha Trang",
+      "statusRead": true,
+      "createAt": "2023-05-05T09:40:10"
+    },
+    {
+      "id": "7",
+      "idCompany": 6,
+      "idJob": "J007",
+      "name": "Bui Van G",
+      "phone": "0981234567",
+      "email": "buivang@example.com",
+      "description": "Kỹ sư cơ khí với 6 năm kinh nghiệm.",
+      "linkProject": "http://example.com/project7",
+      "city": "Vinh",
+      "statusRead": true,
+      "createAt": "2023-05-06T11:50:50"
+    },
+    {
+      "id": "8",
+      "idCompany": 7,
+      "idJob": "7467",
+      "name": "Nguyen Thi H",
+      "phone": "0909876543",
+      "email": "nguyenthih@example.com",
+      "description": "Nhân viên chăm sóc khách hàng.",
+      "linkProject": "http://example.com/project8",
+      "city": "Huế",
+      "statusRead": true,
+      "createAt": "2023-05-07T15:15:30"
+    },
+    {
+      "id": "9",
+      "idCompany": 7,
+      "idJob": "a2a2",
+      "name": "Le Thi I",
+      "phone": "0931234567",
+      "email": "lethii@example.com",
+      "description": "Nhà phát triển web với 4 năm kinh nghiệm.",
+      "linkProject": "http://example.com/project9",
+      "city": "Đà Lạt",
+      "statusRead": true,
+      "createAt": "2023-05-08T13:25:40"
+    }
+  ],
+  "statistic":[
+    {
+      "year": 1999,
+      "language": "C++",
+      "salary": 0
+    },
+    {
+      "year": 1999,
+      "language": "Java",
+      "salary": 0
+    },
+    {
+      "year": 1999,
+      "language": "Python",
+      "salary": 0
+    },
+    {
+      "year": 1999,
+      "language": "C",
+      "salary": 0
+    },
+    {
+      "year": 1999,
+      "language": "SQl",
+      "salary": 0
+    },
+    {
+      "year": 2000,
+      "language": "C++",
+      "salary": 700
+    },
+    {
+      "year": 2000,
+      "language": "Java",
+      "salary": 500
+    },
+    {
+      "year": 2000,
+      "language": "Python",
+      "salary": 300
+    },
+    {
+      "year": 2000,
+      "language": "C",
+      "salary": 700
+    },
+    {
+      "year": 2000,
+      "language": "SQl",
+      "salary": 700
+    },
+    {
+      "year": 2001,
+      "language": "C++",
+      "salary": 750
+    },
+    {
+      "year": 2001,
+      "language": "Java",
+      "salary": 550
+    },
+    {
+      "year": 2001,
+      "language": "Python",
+      "salary": 300
+    },
+    {
+      "year": 2001,
+      "language": "C",
+      "salary": 640
+    },
+    {
+      "year": 2001,
+      "language": "SQl",
+      "salary": 900
+    },
+    {
+      "year": 2002,
+      "language": "C++",
+      "salary": 600
+    },
+    {
+      "year": 2002,
+      "language": "Java",
+      "salary": 400
+    },
+    {
+      "year": 2002,
+      "language": "Python",
+      "salary": 400
+    },
+    {
+      "year": 2002,
+      "language": "C",
+      "salary": 640
+    },
+    {
+      "year": 2002,
+      "language": "SQl",
+      "salary": 800
+    },
+    {
+      "year": 2003,
+      "language": "C++",
+      "salary": 600
+    },
+    {
+      "year": 2003,
+      "language": "Java",
+      "salary": 400
+    },
+    {
+      "year": 2003,
+      "language": "Python",
+      "salary": 400
+    },
+    {
+      "year": 2003,
+      "language": "C",
+      "salary": 640
+    },
+    {
+      "year": 2003,
+      "language": "SQl",
+      "salary": 800
+    },
+    {
+      "year": 2004,
+      "language": "C++",
+      "salary": 700
+    },
+    {
+      "year": 2004,
+      "language": "Java",
+      "salary": 500
+    },
+    {
+      "year": 2004,
+      "language": "Python",
+      "salary": 440
+    },
+    {
+      "year": 2004,
+      "language": "C",
+      "salary": 700
+    },
+    {
+      "year": 2004,
+      "language": "SQl",
+      "salary": 900
+    },
+    {
+      "year": 2005,
+      "language": "C++",
+      "salary": 900
+    },
+    {
+      "year": 2005,
+      "language": "Java",
+      "salary": 600
+    },
+    {
+      "year": 2005,
+      "language": "Python",
+      "salary": 655
+    },
+    {
+      "year": 2005,
+      "language": "C",
+      "salary": 550
+    },
+    {
+      "year": 2005,
+      "language": "SQl",
+      "salary": 777
+    }
+  ]
+}
